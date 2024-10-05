@@ -1,4 +1,5 @@
 table {
-    background-color: rgb(255, 255, 0); /* Yellow background */
-    border: 1px solid rgb(0, 0, 0); /* Black solid border */
+    background-color: rgb(255, 255, 0) !important;
+    border: 1px solid rgb(0, 0, 0) !important;
+    border-collapse: collapse; /* Ensures the borders behave as expected */
 }
