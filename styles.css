@@ -1,4 +1,4 @@
-table{
-	background-color: rgb(255, 255, 0);
-	border: px solid rgb(0, 0, 0);
+table {
+    background-color: rgb(255, 255, 0); /* Yellow background */
+    border: 1px solid rgb(0, 0, 0); /* Black solid border */
 }
