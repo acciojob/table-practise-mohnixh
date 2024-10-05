@@ -1,22 +1,3 @@
-.my-table {
-    background-color: rgb(255, 255, 0) !important; /* Use !important to ensure it applies */
-    border: 1px solid rgb(0, 0, 0) !important; /* Use !important for the border */
-    border-collapse: collapse;
-    width: 100%;
-}
-
-caption {
-    font-size: 20px;
-    font-weight: bold;
-    text-align: center;
-    padding: 10px;
-}
-
-th, td {
-    padding: 10px;
-    border: 1px solid rgb(0, 0, 0); /* Make sure border color matches */
-}
-
-thead {
-    background-color: rgb(255, 255, 0); /* Ensure consistency in color */
+table{
+	background-color: yellow;
 }
