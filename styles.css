@@ -1,7 +1,10 @@
+/* Apply background color to the table */
 table {
-  background-color: yellow !important; /* Force background color */
+  background-color: yellow !important; /* Force the background color */
 }
 
+/* Apply border to the table, th, and td elements */
 table, th, td {
-  border: 1px solid black !important; 
+  border: 1px solid black !important; /* Force the border */
+  border-collapse: collapse; /* Ensure borders are merged */
 }
